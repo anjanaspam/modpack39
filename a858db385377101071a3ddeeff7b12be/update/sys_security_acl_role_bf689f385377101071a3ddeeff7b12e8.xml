@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-09 16:46:08</sys_created_on>
+        <sys_id>bf689f385377101071a3ddeeff7b12e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>koti_table.koti_user</sys_name>
+        <sys_package display_value="koti" source="a858db385377101071a3ddeeff7b12be">a858db385377101071a3ddeeff7b12be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="koti">a858db385377101071a3ddeeff7b12be</sys_scope>
+        <sys_security_acl display_value="koti_table">3f689f385377101071a3ddeeff7b12e5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bf689f385377101071a3ddeeff7b12e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 16:46:08</sys_updated_on>
+        <sys_user_role display_value="koti_user" name="koti_user">6c581f385377101071a3ddeeff7b1213</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
