@@ -2,5 +2,6 @@
     <element label="Koti Table" max_length="40" name="koti_table" type="collection">
         <element label="koti" max_length="80" name="koti" type="string"/>
         <element label="Koti int" max_length="80" name="koti_int" type="integer"/>
+        <element label="Work int" max_length="80" name="work_int" type="integer"/>
     </element>
 </database>
