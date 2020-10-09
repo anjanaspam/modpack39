@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Koti Table" max_length="40" name="koti_table" type="collection">
+        <element label="Isai" max_length="90" name="isai" type="integer"/>
+        <element label="Ketten" max_length="80" name="ketten" type="integer"/>
         <element label="koti" max_length="80" name="koti" type="string"/>
-        <element label="Koti int" max_length="80" name="koti_int" type="integer"/>
-        <element label="Work int" max_length="80" name="work_int" type="integer"/>
+        <element label="malar" max_length="80" name="malar" type="integer"/>
     </element>
 </database>
